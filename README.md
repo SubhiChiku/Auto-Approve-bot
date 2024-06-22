@@ -12,6 +12,8 @@
 </details>
 
 <details><summary>📌 Deploy to Railway </summary>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsubhichiku%2FAuto-Approve-bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-hotpink?style=for-the-badge&logo=heroku" width="300"/></a></p>
   
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/w7jSPk)
 </details>
